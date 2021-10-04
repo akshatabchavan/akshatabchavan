@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("This is the sample git project");
 		System.out.println("This is the sample git project");
 		System.out.println("This is up the sample git project");
+		System.out.println("This is up the sample git project");
 	}
 
 }
